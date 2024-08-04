@@ -80,7 +80,7 @@
 > - 前端：熟悉Vue3, TypeScript, Js, npm, vite, 以及一些前端生态
 > - Python：熟悉Python, anaconda, py-touch, 一些相关python生态, 了解一些机器学习，如基于强化学习智能体的训练，卷积神经网络基于梯度下降的分类智能体的训练等。
 > - Tools：熟悉Git,SVN,MarkDown,Plugin,Shell,大语言模型AI的使用。实际工作中也确实利用多家AI和搜索引擎独立解决了全部遇到的开发问题，并利用AI极大的强化了自己。
-> - 其他：熟悉C#（在AI的加持下，只要精通一门编程语言，以此为思路索引，就编程语言的语法而言，当代已经不存在如何编程语言的壁垒了。）
+> - 其他：熟悉C#（在AI的加持下，只要精通一门编程语言，以此为思路索引，就编程语言的语法而言，当代已经不存在任何编程语言上的壁垒了。）
 > - 欢迎参考我的个人项目[https://gitee.com/mdsSJY/projects](https://gitee.com/mdsSJY/projects)
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
