@@ -15,7 +15,9 @@ html {
 body {
   font-family: "SF UI Text",-apple-system,-apple-system-body,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   color: #24292e;
-  line-height: 1.5
+  line-height: 1.5;
+  max-width: 860px;
+  margin: 0 auto;
 }
 #write {
   max-width: 860px;
@@ -78,7 +80,7 @@ h1 {
   margin: 1em auto 1.2em
 }
 h1:after {
-  border-bottom: 2px dashed #afec9e;
+  /* border-bottom: 2px dashed #afec9e; */
   content: '';
   width: 100px;
   display: block;
