@@ -49,7 +49,7 @@
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-- **智能语音客服项目 `2023.8-至今`**  
+- **智能语音客服项目 `2023.8-2025.1`**  
 >   * *技术栈：*   
     springboot, MySql, Redis, Vue3+vite+Ts, .NETCore 
 >  * _项目简介：_  
