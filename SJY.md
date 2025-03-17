@@ -32,7 +32,7 @@
       <ul>
       <li>男,1994/12/04</li>
       <li>求职意向：全栈开发|游戏开发</li>
-      <li>工作经验：4.5年</li>
+      <li>工作经验：4年</li>
       <li>期望薪资：15k-25k</li>
       <li>Gitee：<a href="https://gitee.com/mdsSJY">https://gitee.com/mdsSJY</a></li>
       <li>GitHub：<a href="https://github.com/MgSrdEer">https://github.com/MgSrdEer</a></li>
@@ -44,8 +44,8 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-> - **上海基立讯信息科技有限公司， 研发部， 高级Java开发工程师， 2023.8-至今， `1年`**
-> - **上海海隆信技软件有限公司， 海外事业部， 中级Java开发工程师， 2021.7-2023.8， `2年`**
+> - **上海基立讯信息科技有限公司， 研发部， 高级Java开发工程师， 2023.8-2025.1， `1.5年`**
+> - **上海海隆信技软件有限公司， 海外事业部， 中级Java开发工程师， 2021.3-2021.7-2023.8， `2.5年`**
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
