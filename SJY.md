@@ -31,9 +31,7 @@
     <div style="flex: 2;">
       <ul>
       <li>男,1994/12/04</li>
-      <li>求职意向：全栈开发|游戏开发</li>
-      <li>工作经验：4年</li>
-      <li>期望薪资：15k-25k</li>
+      <li>工作经验：4.5年</li>
       <li>Gitee：<a href="https://gitee.com/mdsSJY">https://gitee.com/mdsSJY</a></li>
       <li>GitHub：<a href="https://github.com/MgSrdEer">https://github.com/MgSrdEer</a></li>
     </ul>
@@ -44,11 +42,34 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-> - **上海基立讯信息科技有限公司， 研发部， 高级Java开发工程师， 2023.8-2025.1， `1.5年`**
-> - **上海海隆信技软件有限公司， 海外事业部， 中级Java开发工程师， 2021.3-2021.7-2023.8， `2.5年`**
+> - **纬创软件（武汉）有限公司，业务3课，Java开发工程师， `2025.3-2025-7`**
+> - **上海基立讯信息科技有限公司， 研发部， 高级Java开发工程师， `2023.8-2025.1`**
+> - **上海海隆信技软件有限公司， 海外事业部， 中级Java开发工程师， `2021.3-2021.7-2023.8`**
+
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+
+- **美团医美运营投流项目 `2025.3-2025-7`**
+> * 项目背景：
+  美团的医美组业务方，需求一个基于AIGC优化其在某书平台上投放笔记引流的运营能力。即想要一个可以自动生成某书笔记，只需要人审批就可以进行笔记批量投放的AIGC能力。
+> * 项目方案：
+  对该需求进行了工程化的拆解后设计了如下的AI Agent应用。
+>    1. 自动化获取某书热点与热门笔记，并根据当前时间情景，分析出热点，总结出笔记创建方向，指导后续agent创作。
+>    2. 基于获取到的热门笔记，提取一个笔记模板式样，提供给后续agent参考
+>    3. 为降低大模型创作幻觉，将需求方提供的医美专业知识构建为RAG，提供给大模型参考。
+>    4. 获取1,2,3的结果后，构建prompt，提交给大模型进行创作
+>    5. 提供一个web交互页面。
+> * 我的职责：
+>  工程实现是基于美团内部的现有能力去实现，如mdp框架，Friday大模型应用工厂。  
+>  我主要完成了如下的工作：
+>    1. 上述1中获得数据后构建分析热点方向的agent，上述2，3，4Agent的实现，agent实现基于MDP中内置的SpringAi，和Friday大模型应用工厂。Rag构建是基于美团的ES平台能力，ES v8的向量库搭建的RAG。
+>    2. 完成了部分web交互页面，功能有，agent入口，笔记生成查询。基于美团的remo和talos平台搭建。
+
+
+
+
 - **智能语音客服项目 `2023.8-2025.1`**  
 >   * *技术栈：*   
     springboot, MySql, Redis, Vue3+vite+Ts, .NETCore 
@@ -70,6 +91,18 @@
  具体可以参考[https://gitee.com/mdsSJY/addr-correct](https://gitee.com/mdsSJY/addr-correct)。  
 > * `声明`：  
 项目闭源，此展示也并非全部源码。此展示仅仅为了方便相关人对我个人的coding习惯有些许了解的依据，或提供相关人对我个人相关技术水平评价有所参考。    
+
+
+- **对日外包项目 `2021.7-2023.8`**
+>  * *技术栈：*  
+   ObjectWorks＋框架, JBoss, Oracle, DB2, Pega低代码量平台, html, js
+>  * _项目简介：_   
+>    1. 对日外包项目《全国健康保険》系统。这是一个保险业务相关的系统开发项目。  
+>    2. 对日外包项目《TC金融支付BPM》系统。这是一个金融业务相关的系统开发项目。
+>  * _工作描述：_  
+   该段经历的项目属于大型多人开发的项目，我承担PG的角色职责。并履行了自己的职责。具体情况欢迎参考我的过往简历  
+   [https://pan.baidu.com/s/1LBJArEsFsrqIBBloITW3eg?pwd=p8yc](https://pan.baidu.com/s/1LBJArEsFsrqIBBloITW3eg?pwd=p8yc)
+
 
 
 - **我的个人项目 `业余时间`**  
@@ -95,27 +128,20 @@
 >  * * 记录的是我开发中遇到觉得应该记录的技术细节[https://gitee.com/mdsSJY/technical-logs](https://gitee.com/mdsSJY/technical-logs)  
 
 
-- **对日外包项目 `2021.7-2023.8`**
->  * *技术栈：*  
-   ObjectWorks＋框架, JBoss, Oracle, DB2, Pega低代码量平台, html, js
->  * _项目简介：_   
->    1. 对日外包项目《全国健康保険》系统。这是一个保险业务相关的系统开发项目。  
->    2. 对日外包项目《TC金融支付BPM》系统。这是一个金融业务相关的系统开发项目。
->  * _工作描述：_  
-   该段经历的项目属于大型多人开发的项目，我承担PG的角色职责。并履行了自己的职责。具体情况欢迎参考我的过往简历  
-   [https://pan.baidu.com/s/1LBJArEsFsrqIBBloITW3eg?pwd=p8yc](https://pan.baidu.com/s/1LBJArEsFsrqIBBloITW3eg?pwd=p8yc)
+
 
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技术栈
 > 
 > - 后端：非常熟悉Java以及JDK相关开发套件，Java相关生态，后端相关中间件。
-> - 前端：熟悉Vue3, TypeScript, Js, npm, vite, 以及一些前端生态
+> - 前端：熟悉Vue3, React, TypeScript, Js, npm, vite, 以及一些前端生态
 > - Python：熟悉Python, anaconda; 了解py-touch, 以及一些相关python生态。
-> - Tools：熟悉`Git`,`SVN`,`MarkDown`,`Plugin`,`Shell`,`Docker`,`IDE`,大语言模型AI的使用。  
+> - Tools：熟悉`Git`,`SVN`,`MarkDown`,`Plugin`,`Shell`,`Docker`,`IDE`, `Trae`, `cursor`,大语言模型AI的使用。  
 实际工作中能够利用多家AI和搜索引擎独立解决全部遇到的开发问题。
 > - 其他：
 >  - - 了解`DotNet`,`C#`以及相关生态，且有实战项目。 
 >  - - 了解`Golang`以及相关生态，且有实战项目。 
+
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 > - 硕士，贵州民族大学，化学工程，2018.9~2021.6
