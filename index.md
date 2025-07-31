@@ -109,11 +109,12 @@
 >  * * [vue3工作流以及模板`内有演示链接`(https://gitee.com/mdsSJY/vue-ts-portal-site)](https://gitee.com/mdsSJY/vue-ts-portal-site)
 >  * * [electron工作流以及模板`内有发布Release`(https://gitee.com/mdsSJY/game-development-tools)](https://gitee.com/mdsSJY/game-development-tools)
 >  * * [react工作流以及模板`内有演示链接`(https://gitee.com/mdsSJY/react-case-template)](https://gitee.com/mdsSJY/react-case-template)
->  * * [uniapp,下面的二维码是我的一个在开发中项目的体验版,微信扫码进行可以体验](https://gitee.com/mdsSJY/uniapp-case-template)
+>  * * [uniapp工作流以及模板(https://gitee.com/mdsSJY/uniapp-case-template)](https://gitee.com/mdsSJY/uniapp-case-template)
+>  * * * 下面的二维码是uniapp为前端的，基于开源项目TradingAgents-CN的微信小程序。可以微信扫码进行体验。（一段时候后，微信小程序搜索`猫头分析员`也可以找到）
 
 
 <div style="text-align:center">
-  <img src="assets/tacn.jpg" width="150px">
+  <img src="assets/tacn.png" width="150px">
 </div>
 
 
