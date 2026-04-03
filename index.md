@@ -32,13 +32,29 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-> - **法本信息技术，网易外包（裁员），Agent 开发， `2026.1-2026.4`**
+> - **法本信息技术，杭州网易外包（裁员），Agent 开发， `2026.1-2026.4`**
 > - **上海凹酷凹酷智能科技，创业公司，全栈开发， `2025.4-2026.1`**
 > - **纬创软件，驻场派遣开发，Java 后端， `2023.8-2025-4`**
 > - **上海海隆信技软件，Java 开发， `2021.3-2021.7-2023.8`**
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+- **燕子服务号（燕云项目组面向策划的 AI 问答智能机器人）`2026.1-2026.4`**
+> * 项目背景：
+  基于 POPO 平台的 AI 智能客服系统，为燕云十六声项目团队提供自动化技术问答支持。整合 BrainMaker 低代码平台和大模型能力，实现知识库问答、问题查询、消息采集等功能。
+> * 项目方案：
+>   1. 基础问答：基于燕云十六声数据集检索 + LLM 生成，支持图文混合输入
+>   2. 查询功能：解析用户输入，检索知识库并提取负责人信息
+>   3. AI 自动采集：定时爬取群消息，AI 提取 Q&A 并自动上传知识库
+> * 我的职责：
+>   1. 架构设计：设计燕子服务号与燕子助理双产品架构，基于 BrainMaker Workflow 编排工作流
+>   2. Workflow 开发：问答、查询、采集、图片转义 4 个核心工作流
+>   3. 数据集管理：384 篇文档管理，Python API 实现程序化上传
+>   4. 运维监控：定时任务配置，监控指标跟踪，问题排查优化
+> * 技术栈：
+>   POPO、BrainMaker（Workflow 引擎）、大语言模型、燕云十六声数据集（向量检索）、Python
+
+
 - **AIGC 乙游项目 `2025.4-2026.1`**
 > * 项目背景：
   基于当下的 AIGC 能力，项目初期构想是用 ai 生成具有左右分支可选择的一句话文字剧情，并同时生成对应人物的 tts（基于 minmax），并为 cg 添加呼吸动画。制作面向特定群体的女性用户的类乙女向游戏。
@@ -161,8 +177,11 @@ cocos creator 3.8, 根据 figma 设计稿，实现游戏的前端界面。spine 
   - 了解 C#，以及 C# 相关生态，开发脚手架
   - 根据开发需求了解什么时候应该用哪些中间件，包括但不限于 `PostgreSQL`、`OSS`、`Docker/Podman`、`Jenkins`、`Redis`、`RabbitMQ` 等
 - **前端**：
-  - 熟悉 Vue3、React、TypeScript，以及前端生态，开发脚手架
+  - 熟悉 `Vue3/React/nodejs/TypeScript/tailwindcss`, `ReactNative`, `Electron`, `Uniapp`,`Nextjs`，以及前端生态，开发脚手架
   - 熟悉 Cocos，以及了解一些基于 Cocos 的 iOS 原生开发和 Android 原生开发
+- **AI 与低代码平台**：
+  - 熟悉 BrainMaker/n8n 低代码平台（Workflow 引擎编排）
+  - 熟悉大语言模型应用开发（LLM、RAG语义搜索、OpenAIApi、langchain、langgraph）
 - **Tools**：`Git`、`Markdown`、`Make`、`Shell`、`Docker`、`IDE`、`Trae`、`minmax-m2`、`WireGuard`、`certbot`、`apifox`、`nginx`、`阿里云服务`、大语言模型 AI  
   实际工作中能够利用多家 AI 和搜索引擎独立解决全部遇到的开发问题
 
