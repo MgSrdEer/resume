@@ -29,15 +29,17 @@
 > - Gitee：[https://gitee.com/mdsSJY](https://gitee.com/mdsSJY)
 > - GitHub：[https://github.com/MgSrdEer](https://github.com/MgSrdEer)
 
+
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-> - **上海凹酷凹酷智能科技有限责任公司（创业公司），全栈开发， `2025.7-至今`**
-> - **纬创软件（武汉）有限公司，驻场派遣开发， `2025.3-2025-7`**
-> - **上海基立讯信息科技有限公司， 研发部， 高级Java开发工程师， `2023.8-2025.1`**
-> - **上海海隆信技软件有限公司， 海外事业部， 中级Java开发工程师， `2021.3-2021.7-2023.8`**
+
+> - **法本信息技术，网易外包（裁员），Agent开发， `2026.1-2026.4`**
+> - **上海凹酷凹酷智能科技，创业公司，全栈开发， `2025.4-2026.1`**
+> - **纬创软件，驻场派遣开发，Java后端， `2023.8-2025-4`**
+> - **上海海隆信技软件， Java开发， `2021.3-2021.7-2023.8`**
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-- **AIGC乙游项目 `2025.7-2026.1`**
+- **AIGC乙游项目 `2025.4-2026.1`**
 > * 项目背景：
   基于当下的AIGC能力，项目初期构想是用ai生成具有左右分支可选择的一句话文字剧情，并同时生成对应人物的tts（基于minmax），并为cg添加呼吸动画。制作面向特定群体的女性用户的类乙女向游戏。
 > * 项目方案：
@@ -48,7 +50,7 @@
 >       d. 遍历所有节点，生成tts语音，并入库。  
 > * 我的职责：
 >   1. 运维：  
-docker,docker仓库环境搭建,certbot,nginx反向代理,阿里云服务cdn,oss,邮箱推送,短信推送,域名。
+docker,docker仓库环境搭建,certbot,nginx反向代理,阿里云服务cdn,oss,邮箱推送,短信推送,域名,CI/CD Jenkins。
 >   2. 前端开发：   
 cocos creator 3.8, 根据figma设计稿，实现游戏的前端界面。spine 实现呼吸动画。原本计划是只发布ios，所以只针对ios进行了适配和原生功能开发。其中解决了如下问题：  
 >       - cocos ts部分写法在ios平台无效的问题。  
@@ -74,7 +76,7 @@ cocos creator 3.8, 根据figma设计稿，实现游戏的前端界面。spine �
 
 
 
-- **美团医美运营投流项目 `2025.3-2025-7`**
+- **美团医美运营投流项目 `2024.6-2025-3`**
 > * 项目背景：
   美团的医美组业务方，需求一个基于AIGC优化其在某书平台上投放笔记引流的运营能力。即想要一个可以自动生成某书笔记，只需要人审批就可以进行笔记批量投放的AIGC能力。
 > * 项目方案：
@@ -93,7 +95,7 @@ cocos creator 3.8, 根据figma设计稿，实现游戏的前端界面。spine �
 
 
 
-- **智能语音客服项目 `2023.8-2025.1`**  
+- **智能语音客服项目 `2023.8-2024.6`**  
 >   * *技术栈：*   
     springboot, MySql, Redis, Vue3+vite+Ts, .NETCore 
 >  * _项目简介：_  
@@ -130,24 +132,27 @@ cocos creator 3.8, 根据figma设计稿，实现游戏的前端界面。spine �
 
 - **我的个人项目 `业余时间`**  
 >  * `我6个个人精选项目`
+>
 >  * * [https://gitee.com/mdsSJY](https://gitee.com/mdsSJY)
->  主页可以查看我的绿墙
+>  * * 个人jenkins。查看用账号密码：look/123
+>  * * * [https://jenkins.tools.sjy.asia/](https://jenkins.tools.sjy.asia/)
 > ******
 >  * `我的作品集`
->  * * [cocos creater Android 浏览器打开下载安装即可(https://oss.sjy.asia/cocos/TheHeart-release.apk)](https://oss.sjy.asia/cocos/TheHeart-release.apk)
+>  * * [react-native私人安卓app https://gitee.com/mdsSJY/stock_RNExpoApp/releases/tag/v1.0.0](https://gitee.com/mdsSJY/stock_RNExpoApp/releases/tag/v1.0.0)
+>  * * [cocos creater安卓 浏览器打开下载安装即可(https://oss.sjy.asia/cocos/TheHeart-release.apk)](https://oss.sjy.asia/cocos/TheHeart-release.apk)
 >  * * [uniapp 微信小程序(https://gitee.com/mdsSJY/uniapp-case-template)](https://gitee.com/mdsSJY/uniapp-case-template)
->  * * * 基于开源项目TradingAgents-CN的微信小程序。可以微信扫码进行体验前端。（微信小程序相关规定，无法展示后端）
+>  * * * 涉及金融个人开发者无法展示后端
 
 
 <div style="text-align:center">
   <img src="assets/tacn.png" width="150px">
 </div>
 
->  * * [electron工作流以及模板`内有发布Release`(https://gitee.com/mdsSJY/game-development-tools)](https://gitee.com/mdsSJY/game-development-tools)
+>  * * [electron工作流以及模板`可下载exe`(https://gitee.com/mdsSJY/electron-actual/releases/tag/latest)](https://gitee.com/mdsSJY/electron-actual/releases/tag/latest)
 >  * * [Vue3演示(https://proficiencytestdemo.sjy.asia)](https://proficiencytestdemo.sjy.asia/)
->  * * [Vue3演示2(https://addrwind.sjy.asia)](https://addrwind.sjy.asia/)
->  * * [React+tailwindcss演示(https://reactdemoshow.sjy.asia/)](https://reactdemoshow.sjy.asia/)
+
 >  ******
+
 >  * `个人开发日志`  
 >  * * 记录的是我开发中遇到觉得应该记录的技术细节[https://gitee.com/mdsSJY/technical-logs](https://gitee.com/mdsSJY/technical-logs)  
 
@@ -159,14 +164,14 @@ cocos creator 3.8, 根据figma设计稿，实现游戏的前端界面。spine �
 > 
 > - 后端：  
 >  - - 非常熟悉Java以及JDK相关开发套件，Java相关生态，后端相关中间件。
->  - - 熟悉python，以及python的一些相关生态，开发手脚架
+>  - - 非常熟悉python，以及python的一些相关生态，开发手脚架
 >  - - 熟悉golang，以及golang的一些相关生态，开发手脚架
 >  - - 了解C#，以及C#的一些相关生态，开发手脚架
->  - - 根据开发需求了解什么时候应该用哪些中间件，包括但不限于`pgsql`,`Redis`,`RabbitMQ`等。
+>  - - 根据开发需求了解什么时候应该用哪些中间件，包括但不限于`postgresql`,`OSS`,`docker/podman`,`jenkins`,`Redis`,`RabbitMQ`等。
 > - 前端：  
 >  - - 熟悉Vue3, React, TypeScript, 以及一些前端生态，开发手脚架
 >  - - 熟悉cocos，以及了解一些基于cocos 的 ios 原生开发，和android 原生开发。
-> - Tools：`Git`,`MarkDown`,`Shell`,`Docker`,`IDE`, `Trae`, `minmax-m2`, `wireguard`, `certbot`,`apifox`, `nginx`, `阿里云服务`,大语言模型AI。  
+> - Tools：`Git`,`MarkDown`,`make`,`Shell`,`Docker`,`IDE`, `Trae`, `minmax-m2`, `wireguard`, `certbot`,`apifox`, `nginx`, `阿里云服务`,大语言模型AI。  
 实际工作中能够利用多家AI和搜索引擎独立解决全部遇到的开发问题。
 
 
